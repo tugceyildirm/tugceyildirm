@@ -27,7 +27,7 @@ Backend sistemler, gerçek zamanlı veri akışı (WebSocket) ve Yapay Zeka (RAG
 
 ### 🏗️ Öne Çıkan Projeler & Odak Alanları
 
-* * 🎓 **Bitirme Projesi (AI-Powered E-Learning Platform):** Büyük dil modelleri (LLM) ve RAG mimarisi kullanarak dökümanlar üzerinden anlamsal arama (semantic search) yapan, WebSocket (Socket.io) ile interaktif veri akışı sağlayan ve Express tabanlı mikroservis mimarisine sahip ölçeklenebilir bir eğitim platformu.
+* 🎓 **Bitirme Projesi (AI-Powered E-Learning Platform):** Büyük dil modelleri (LLM) ve RAG mimarisi kullanarak dökümanlar üzerinden anlamsal arama (semantic search) yapan, WebSocket (Socket.io) ile interaktif veri akışı sağlayan ve Express tabanlı mikroservis mimarisine sahip ölçeklenebilir bir eğitim platformu.
 * 🛒 **ShopBody:** ADL Kurumsal Hizmetler stajım kapsamında React ve Node.js mimarisiyle uçtan uca geliştirdiğim full-stack akıllı alışveriş listesi uygulaması.
 * ⚡ **Odaklandığım Mimariler:** Mikroservis Sistemleri, Olay Güdümlü Tasarım (Event-Driven), WebSocket (Real-time Data Streaming), RAG & Vector Databases.
 
@@ -36,4 +36,4 @@ Backend sistemler, gerçek zamanlı veri akışı (WebSocket) ve Yapay Zeka (RAG
 ### 📫 İletişim
 
 * ✉️ [E-posta Gönder](mailto:tugce0yildirim@gmail.com)
-* 💼 [LinkedIn Profilim](yildirim-tugce)
+* 💼 [LinkedIn Profilim](https://linkedin.com/in/yildirim-tugce)
